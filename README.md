@@ -7,13 +7,13 @@ Five gesture types, ”OK”, ”Peace”, ”Punch”, ”Stop” and ”Nothin
 
 
 Network architecture detail  
-<img src="https://github.com/Firmamenter/CNN-for-Real-time-Gesture-Recognition-and-Task-Control/blob/master/Picture2.jpeg" width="200">
+<img src="https://github.com/Firmamenter/CNN-for-Real-time-Gesture-Recognition-and-Task-Control/blob/master/Picture2.jpeg" width="600">
 
 
 Loss and accuracy during training using the best set of parameters  
-<img src="https://github.com/Firmamenter/CNN-for-Real-time-Gesture-Recognition-and-Task-Control/blob/master/Picture3.png" width="200">
-<img src="https://github.com/Firmamenter/CNN-for-Real-time-Gesture-Recognition-and-Task-Control/blob/master/Picture4.png" width="200">
+<img src="https://github.com/Firmamenter/CNN-for-Real-time-Gesture-Recognition-and-Task-Control/blob/master/Picture3.png" width="400">
+<img src="https://github.com/Firmamenter/CNN-for-Real-time-Gesture-Recognition-and-Task-Control/blob/master/Picture4.png" width="400">
 
 
 Hand gesture recognition and game control  
-<img src="https://github.com/Firmamenter/CNN-for-Real-time-Gesture-Recognition-and-Task-Control/blob/master/Picture5.png" width="200">
+<img src="https://github.com/Firmamenter/CNN-for-Real-time-Gesture-Recognition-and-Task-Control/blob/master/Picture5.png" width="600">
