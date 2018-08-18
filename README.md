@@ -7,7 +7,7 @@ Five gesture types, ”OK”, ”Peace”, ”Punch”, ”Stop” and ”Nothin
 
 
 Network architecture detail  
-<img src="https://github.com/Firmamenter/CNN-for-Real-time-Gesture-Recognition-and-Task-Control/blob/master/Picture2.png" width="200">
+<img src="https://github.com/Firmamenter/CNN-for-Real-time-Gesture-Recognition-and-Task-Control/blob/master/Picture2.jpeg" width="200">
 
 
 Loss and accuracy during training using the best set of parameters  
