@@ -1,6 +1,8 @@
 # CNN for Real-time Gesture Recognition and Task Control
 
-This project is aiming on hand gesture recognition, four methods, color detection, convolutional neural network, optical flow, mathematical method are proposed and implemented to control video games which makes human computer interaction more interesting and creative. (This repo only contains CNN model)
+Our project is aiming on hand gesture recognition, four methods, color detection, convolutional neural network, optical flow, mathematical method are proposed and implemented to control video games which makes human computer interaction more interesting and creative.  
+
+This repo only contains CNN model. We used webcam to capture real-time hand gesture and applied segmentation to highlight hand part. Then we used fine-tuned CNN to learn the meaning of gestures, hence interacting with computer by using PyGUI.
 
 Five gesture types, ”OK”, ”Peace”, ”Punch”, ”Stop” and ”Nothing”  
 <img src="https://github.com/Firmamenter/CNN-for-Real-time-Gesture-Recognition-and-Task-Control/blob/master/Picture1.png" width="400">
